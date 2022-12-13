@@ -38,13 +38,13 @@ body{
     animation:light 2000ms infinite cubic-bezier(1,-0.45,0,1.89);
 }
 #b1{
-    transform: translate(650px,670px);
+    transform: translate(450px,670px);
 }
 #b2{
-    transform: translate(950px,670px);
+    transform: translate(750px,670px);
 }
 #b3{
-    transform: translate(1270px,670px);
+    transform: translate(1070px,670px);
 }
 
 @keyframes light{
